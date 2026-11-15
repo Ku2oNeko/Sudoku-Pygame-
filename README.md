@@ -2,6 +2,8 @@
 
 A Sudoku game for our OOP pygame project. It has three difficulties, lives, hints that cost time, a timer, a light and dark theme, and a top-3 leaderboard for each level.
 
+Demo video: https://youtu.be/B93TJ0tpFjg
+
 ## Run it
 
 1. Install Python 3.8 or newer, then pygame 2: `pip install pygame`
